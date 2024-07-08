@@ -2,6 +2,7 @@ export default  {
   COLORS: {
       BACKGROUND_900: "#282124",
       BACKGROUND_800: "#3E3B47",
+      BACKGROUND_700: "#262529",
 
       BACKGROUND_PINK_700: "rgba(255, 133, 155, 0.05)",
 
